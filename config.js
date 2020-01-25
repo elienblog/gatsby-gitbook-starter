@@ -5,10 +5,10 @@ const config = {
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://lh3.googleusercontent.com/-u2MrKZ3UJcI/Xg2LVSBSybI/AAAAAAAAAnQ/u-hBqi4u3_c9sDKuXt9bOuctvNBIG-BxwCEwYBhgL/w278-h280-p/2020-01-01.png",
+		"logo": "https://myspace.b-cdn.net/logo/mamadil-logo-w.svg",
 		"logoLink": "https://docs.mamadil.com.my",
 		"title": "Mamadil Documentation",
-		"githubUrl": "https://github.com/elienblog/gatsby-gitbook-starter",
+		"githubUrl": "https://github.com/elienblog/gatsby-mamadil-guide",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -40,8 +40,8 @@ const config = {
 		"title": "Mamadil Documentation | Mamadil",
 		"description": "Documentation built with mdx.",
 		"ogImage": null,
-		"docsLocation": "https://github.com/elienblog/gatsby-gitbook-starter",
-		"favicon":"https://lh3.googleusercontent.com/-u2MrKZ3UJcI/Xg2LVSBSybI/AAAAAAAAAnQ/u-hBqi4u3_c9sDKuXt9bOuctvNBIG-BxwCEwYBhgL/w278-h280-p/2020-01-01.png"
+		"docsLocation": "https://github.com/elienblog/gatsby-mamadil-guide",
+		"favicon":"https://myspace.b-cdn.net/logo/mamadil-logo-p.svg"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
