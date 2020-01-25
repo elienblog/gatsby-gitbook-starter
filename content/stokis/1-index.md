@@ -1,26 +1,11 @@
 ---
-title: "Sub Page"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Tugas Stokis Mamadil"
+metaTitle: "Tugas Stokis Mamadil"
+metaDescription: "Rujuk ruangan ini sekiranya anda seorang Stokis Mamadil"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+Stokis Mamadil dikehendaki mematuhi segala tatacara pengurusan yang telah digariskan disini. Mereka meliputi beberapa perkara berikut:
 
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+## Tugas Stokis Mamadil
+- Memastikan setiap produk keluar di'scan' barcode bagi memudahkan urusan 'Record-Keeping'.
+- Mengemaskini 'Daily Sales Report' dalam sistem yang telah dibekalkan.
