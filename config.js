@@ -1,14 +1,14 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://docs.mamadil.com.my",
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logo": "https://lh3.googleusercontent.com/-u2MrKZ3UJcI/Xg2LVSBSybI/AAAAAAAAAnQ/u-hBqi4u3_c9sDKuXt9bOuctvNBIG-BxwCEwYBhgL/w278-h280-p/2020-01-01.png",
+		"logoLink": "https://docs.mamadil.com.my",
+		"title": "Mamadil Documentation",
+		"githubUrl": "https://github.com/elienblog/gatsby-gitbook-starter",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -17,9 +17,9 @@ const config = {
 		"search": {
 			"enabled": false,
 			"indexName": "",
-			"algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
-			"algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-			"algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
+			"algoliaAppId": process.env.A4Z9AXD920,
+			"algoliaSearchKey": process.env.298224c3bd862d91044ccc3b622fdc6b,
+			"algoliaAdminKey": process.env.d5ad95c60f7b6369f70394ca3414df0e
 		}
 	},
 	"sidebar": {
@@ -31,26 +31,26 @@ const config = {
       		"/codeblock"
     	],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Hasura", "link": "https://mamadil.com.my"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Mamadil Documentation | Mamadil",
+		"description": "Documentation built with mdx.",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"docsLocation": "https://github.com/elienblog/gatsby-gitbook-starter",
+		"favicon":"https://lh3.googleusercontent.com/-u2MrKZ3UJcI/Xg2LVSBSybI/AAAAAAAAAnQ/u-hBqi4u3_c9sDKuXt9bOuctvNBIG-BxwCEwYBhgL/w278-h280-p/2020-01-01.png"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
 		"manifest": {
-			"name": "Gatsby Gitbook Starter",
-			"short_name": "GitbookStarter",
+			"name": "Mamadil Documentation",
+			"short_name": "MamadilDocs",
 			"start_url": "/",
-			"background_color": "#6b37bf",
-			"theme_color": "#6b37bf",
+			"background_color": "#5c0a81",
+			"theme_color": "#5c0a81",
 			"display": "standalone",
 			"crossOrigin": "use-credentials",
 			icons: [
