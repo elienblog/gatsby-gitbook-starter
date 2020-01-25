@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
+title: "Mamadil Documentation"
+metaTitle: "Mamadil Documentation"
 metaDescription: "This is the meta description"
 ---
 
