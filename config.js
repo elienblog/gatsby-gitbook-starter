@@ -31,7 +31,7 @@ const config = {
       		"/codeblock"
     	],
 		"links": [
-			{ "text": "Hasura", "link": "https://mamadil.com.my"},
+			{ "text": "Mamadil", "link": "https://mamadil.com.my"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
