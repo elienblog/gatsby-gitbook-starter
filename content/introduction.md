@@ -1,17 +1,19 @@
 ---
-title: "Mamadil Documentation"
-metaTitle: "Mamadil Documentation"
-metaDescription: "This is the meta description"
+title: "Pengenalan"
+metaTitle: "Pengenalan Sistem Mamadil"
+metaDescription: "Pengenalan sistem yang terdapat dalam mamadil"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
+Peraturan yang terdapat dalam mamadil
 
-# Customer
+# Pelanggan
 Heading 1 text
 
-# Agent
+# Affiliate Mamadil (AFF)
 
-# Stockist
+# Ejen Mamadil (AM)
+
+# Stokis Mamadil (SM)
 
 ## Heading H2
 Heading 2 text
