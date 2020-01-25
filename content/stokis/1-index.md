@@ -1,5 +1,5 @@
 ---
-title: "Tugas Stokis Mamadil"
+title: "Tugas SM"
 metaTitle: "Tugas Stokis Mamadil"
 metaDescription: "Rujuk ruangan ini sekiranya anda seorang Stokis Mamadil"
 ---
