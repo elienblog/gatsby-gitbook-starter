@@ -7,7 +7,7 @@ const config = {
 	"header": {
 		"logo": "https://myspace.b-cdn.net/logo/mamadil-logo-w.png",
 		"logoLink": "https://docs.mamadil.com.my",
-		"title": "Mamadil Documentation",
+		"title": "Mamadil Docs",
 		"githubUrl": "https://github.com/elienblog/gatsby-mamadil-guide",
 		"helpUrl": "",
 		"tweetText": "",
@@ -37,8 +37,8 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Mamadil Documentation | Mamadil",
-		"description": "Documentation built with mdx.",
+		"title": "Mamadil - The New Beautiful",
+		"description": "Documentation built with gatsby+mdx",
 		"ogImage": null,
 		"docsLocation": "https://github.com/elienblog/gatsby-mamadil-guide",
 		"favicon":"https://myspace.b-cdn.net/logo/mamadil-logo-p.png"
@@ -46,7 +46,7 @@ const config = {
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
 		"manifest": {
-			"name": "Mamadil Documentation",
+			"name": "Mamadil Docs",
 			"short_name": "MamadilDocs",
 			"start_url": "/",
 			"background_color": "#5c0a81",
