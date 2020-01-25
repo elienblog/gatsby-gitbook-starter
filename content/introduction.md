@@ -7,13 +7,18 @@ metaDescription: "Pengenalan sistem yang terdapat dalam mamadil"
 Peraturan yang terdapat dalam mamadil
 
 # Pelanggan
-Heading 1 text
+Rangkaian produk mamadil boleh didapati di beberapa saluran;
+## Rangkaian Sah Produk Mamadil
+- Dealer
+- Farmasi
+- Outlet
+- Website
 
-# Affiliate Mamadil (AFF)
+# DM - Affiliate Mamadil
 
-# Ejen Mamadil (AM)
+# AM - Ejen Mamadil
 
-# Stokis Mamadil (SM)
+# SM - Stokis Mamadil
 
 ## Heading H2
 Heading 2 text
