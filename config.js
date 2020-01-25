@@ -16,10 +16,10 @@ const config = {
 		],
 		"search": {
 			"enabled": false,
-			"indexName": "",
-			"algoliaAppId": process.env.A4Z9AXD920,
-			"algoliaSearchKey": process.env.298224c3bd862d91044ccc3b622fdc6b,
-			"algoliaAdminKey": process.env.d5ad95c60f7b6369f70394ca3414df0e
+			"indexName": "Mamadil_docs",
+			"algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
+			"algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+			"algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
 		}
 	},
 	"sidebar": {
