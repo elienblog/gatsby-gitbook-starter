@@ -41,7 +41,7 @@ const config = {
 		"description": "Documentation built with gatsby+mdx",
 		"ogImage": null,
 		"docsLocation": "https://github.com/elienblog/gatsby-mamadil-guide",
-		"favicon":"https://myspace.b-cdn.net/logo/mamadil-logo-p.png"
+		"favicon":"https://myspace.b-cdn.net/logo/mamadil-logo-w.png"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
